@@ -62,3 +62,43 @@
 .name {
   color: white;
 }
+#midabout {
+  background-image: url(backg2.jfif);
+  background-size: cover;
+  height: 500px;
+  width: 140%;
+  margin-left: -50px;
+}
+#habout {
+  margin-left: 50px;
+  color: white;
+}
+.abot {
+  margin-left: 50px;
+  color: white;
+}
+.abut {
+  font-weight: bold;
+  color: white;
+}
+#midcontact {
+  height: 500px;
+  background-image: url(backg3.jfif);
+  background-size: cover;
+  width: 140%;
+  margin-left: -50px;
+  margin-top: -50px;
+}
+.contct {
+  color: white;
+  margin-left: 500px;
+  padding-top: 100px;
+}
+#hcont {
+  margin-left: 50px;
+  color: white;
+}
+.pcont {
+  margin-left: 50px;
+  color: white;
+}
