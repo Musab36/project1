@@ -1,0 +1,64 @@
+#btn {
+  height: 28px;
+  border-radius: 25px;
+}
+.input {
+  margin-left: 490px;
+  margin-top: 15px;
+  color: black;
+  border-radius: 9px;
+}
+
+#middiv{
+  height:300px;
+  width:100%;
+}
+#p1 {
+  color: white;
+}
+#bottomdiv {
+  height:100px;
+  width:120%;
+  margin-left: -50px;
+  background-color:rgb(62, 122, 223);
+}
+#qots {
+  height: 1000px;
+  width: 150%;
+  margin-left: -30px;
+  background-color: black;
+  margin-top: 50px;
+}
+#fhder {
+  margin-left: 250px;
+  color: rgb(46, 227, 24);
+}
+#paros {
+  color: rgb(86, 242, 67);
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.story {
+  font-weight: bold;
+}
+.success {
+  color: rgb(18, 228, 203);
+  font-weight: bold;
+  margin-top: 10px;
+}
+.hds {
+  color: rgb(18, 228, 203);
+}
+#end {
+  color: white;
+  text-align: center;
+}
+.sign {
+  text-align: center;
+}
+.inpu {
+  border-radius: 10px;
+}
+.name {
+  color: white;
+}
