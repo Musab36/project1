@@ -6,7 +6,7 @@
   margin-left: 495px;
   margin-top: 15px;
   color: black;
-  border-radius: 9px;
+  border-radius: 5px;
 }
 
 #middiv {
@@ -57,7 +57,7 @@
   text-align: center;
 }
 .inpu {
-  border-radius: 10px;
+  border-radius:5px;
 }
 .name {
   color: white;
